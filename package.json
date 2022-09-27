@@ -1,6 +1,6 @@
 {
   "name": "truewallet-qrcode-generator",
-  "version": "1.0.0",
+  "version": "1.0.1-message-limit-length",
   "description": "",
   "main": "index.js",
   "scripts": {
